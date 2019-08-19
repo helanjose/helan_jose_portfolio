@@ -57,3 +57,33 @@
 .parallax-container {
     height: "500px";
   }
+  #skills{
+      background-image:url("https://miro.medium.com/max/1838/1*92adf06PCF91kCYu1nPLQg.jpeg");
+  }
+  #backpacker{
+      margin-top: 80px;
+      margin-left: 90px;
+      font-style: italic;
+  }
+  #RushEd{
+    margin-top: 50px;
+    margin-left: 90px;
+    font-style: italic;
+  }
+  #RushEdContent{
+      text-align: justify;
+  }
+  #project{
+    background-image:url("https://miro.medium.com/max/1838/1*92adf06PCF91kCYu1nPLQg.jpeg");
+  }
+  #MIRepo{
+    margin-top: 55px;
+    margin-left: 90px;
+    font-style: italic;
+  }
+  #SecondTime{
+    margin-top: 50px;
+    margin-left: 90px;
+    font-style: italic;
+
+  }
